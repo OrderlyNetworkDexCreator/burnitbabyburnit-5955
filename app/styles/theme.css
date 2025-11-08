@@ -4,14 +4,14 @@
 
   /* colors */
   --oui-color-primary: 43 233 55;
-  --oui-color-primary-light: 213 190 244;
-  --oui-color-primary-darken: 115 210 81;
-  --oui-color-primary-contrast: 255 255 255;
+  --oui-color-primary-light: 43 233 55;
+  --oui-color-primary-darken: 43 233 55;
+  --oui-color-primary-contrast: 43 233 55;
 
   --oui-color-link: 43 233 55;
   --oui-color-link-light: 43 233 55;
 
-  --oui-color-secondary: 255 255 255;
+  --oui-color-secondary: 43 233 55;
   --oui-color-tertiary: 218 218 218;
   --oui-color-quaternary: 218 218 218;
 
@@ -53,8 +53,8 @@
   --oui-color-trading-profit-contrast: 30 138 52;
 
   /* gradients */
-  --oui-gradient-primary-start: 40 0 97;
-  --oui-gradient-primary-end: 189 107 237;
+  --oui-gradient-primary-start: 43 233 55;
+  --oui-gradient-primary-end: 43 233 55;
 
   --oui-gradient-secondary-start: 81 42 121;
   --oui-gradient-secondary-end: 176 132 233;
